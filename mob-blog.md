@@ -15,9 +15,10 @@ Wedensday there were two mob programming sessions by @EmilyBache and Nicolaj (so
 
 
 ## Tips & Tricks
+
 ### Use a timer
 * Sand clocks were suggested. "Silent alarm", as some don't like beeps.
-* Mob Timer apps 
+* Mob Timer apps [Mobster.cc](https://mobster.cc) 
 * 5-10 minutes is a good interval. For this blogging, we are going with 5:30
 * Some teams write their own. 
   * Interval timer angular app.
@@ -25,15 +26,20 @@ Wedensday there were two mob programming sessions by @EmilyBache and Nicolaj (so
 * Research: Are there any IDE plugins?
 
 ### Period length
-5-10 minutes per interval, but sessions can go on for multiple hours. DOn't forget frequent breaks.
-* some suggested a period that allows each team member at least 2 sits as driver.
+5-10 minutes per interval, but sessions can go on for multiple hours. Don't forget frequent breaks.
+Some suggested a period that allows each team member at least 2 sits as driver.
 
 ### Observer group
 Emily suggestet size as big as a Scrum Team
 For more than six you have a lot of relationships in the room that need to be managed.
 For bigger groups, maybe split team, so 5-6 are in rotation, the rest are "observers". 
 
-### 
+### Experts as the Driver or Not
+* Put experts in the mob
+ * prevents the team from beeing out of knowledge
+* Experts as driver
+ * force others to find out themself
+ * forces the expert to be silent
 
 ## Teching mob programing 
 - which exercises to use
