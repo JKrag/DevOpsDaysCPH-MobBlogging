@@ -17,12 +17,29 @@
 * some suggested a period that allows each team member at least 2 sits as driver.
 
 ### Observer group
+
 For bigger groups, maybe split team, so 5-6 are in rotation, the rest are "observers". 
+
+## Teching mob programing 
+- which exercises to use
+   FizzBuzz and other coding Katas
+   Wargames
+   Refactoring Katas, Tennis for example
+   
+* choose Focus of the Exercise
+ * Teaching TDD
+ * Teaching the Mob Programming
+ * Teach Editors
+ * Teach new Language 
+ 
+* Don´t teach too much at once    
+* suggestion: only rotate the driver with an experienced navigator
 
 
 ## Distrubuted teams
 
 ## Pitfalls
+
 
 ## When to use
 
