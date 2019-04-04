@@ -1,6 +1,9 @@
 # Mob programming tips & tricks
 
 ## Intro
+Guide created at DevOpsDaysCPH 2019, as a result of a "Mob blogging" session summarizing the open space discussion before on the topic of Mob programming tips and tricks.
+
+Wedensday there were two mob programming sessions by @EmilyBache and Nicolaj (something, links and stuff!).
 
 ## Tips & Tricks
 ### Use a timer
