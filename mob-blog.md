@@ -51,6 +51,12 @@ For bigger groups, maybe split team, so 5-6 are in rotation, the rest are "obser
 
 ## Distrubuted teams
 
+A few tools were mentioned:
+* EtherPad
+* VSCode code share
+* Online IDE's
+
+
 ## Pitfalls
 ### Common problems
 * Wierd IDE/editor setup
