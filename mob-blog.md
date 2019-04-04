@@ -98,3 +98,7 @@ A few tools were mentioned:
 ## The facilitator
 Facilitator is realy usefull when you start with mob programming.
 It could be a scrum master or a non programmer or not participating programming. Experienced teams could do it alone, but a facilitator could help them focus on advanced techniques.
+
+![Commits every 5-6 minutes](github-live.png)
+
+A big thanks to the ThoughWorks/GoCD booth for lending us their big screen for an hour.
