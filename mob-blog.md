@@ -39,8 +39,21 @@ For bigger groups, maybe split team, so 5-6 are in rotation, the rest are "obser
 ## Distrubuted teams
 
 ## Pitfalls
+### Common problems
+* Wierd IDE/editor setup
+* uncommon keyboard layout (language doesn't match)
+* Blaming culture
+* ego
+* Gettings stuck on *solving* the problem
 
-
+### Solutiuons
+* Have a good IDE
+* Kindness & respect environment
+* Instigate a good feedback culture
+* Focus on the mob process
+* Tech checklist
+* Pay attention to feelings & atmosphere
+* 
 ## When to use
 
 ## Mob [what]
