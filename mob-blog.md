@@ -33,6 +33,8 @@ Emily suggestet size as big as a Scrum Team
 For more than six you have a lot of relationships in the room that need to be managed.
 For bigger groups, maybe split team, so 5-6 are in rotation, the rest are "observers". 
 
+### 
+
 ## Teching mob programing 
 - which exercises to use
    FizzBuzz and other coding Katas
@@ -52,10 +54,10 @@ For bigger groups, maybe split team, so 5-6 are in rotation, the rest are "obser
 ## Distrubuted teams
 
 A few tools were mentioned:
-* EtherPad
+
+* [Etherpad](etherpad.org)
 * VSCode code share
 * Online IDE's
-
 
 ## Pitfalls
 ### Common problems
@@ -78,8 +80,8 @@ A few tools were mentioned:
 
 
 ## Mob [what]
-- use for Failure Days 
-- Wargames
+- Use for Failure Days 
+- [Wargames](http://overthewire.org/wargames/)
 - Exploratory Testing
 - Mob Debugging
 - Technical Debt Refactoring
@@ -88,3 +90,5 @@ A few tools were mentioned:
 
 
 ## The facilitator
+Facilitator is realy usefull when you start with mob programming.
+It could be a scrum master or a non programmer or not participating programming. Experienced teams could do it alone, but a facilitator could help them focus on advanced techniques.
