@@ -1,11 +1,11 @@
 # Mob programming tips & tricks
 
 ## Mobsters
-john.behrens@skills-for-teams.com
-jan krag
-anders nyvang
+John Behrens: john.behrens@skills-for-teams.com
+Jan Krag: @jankrag
+Anders Nyvang: @nyvanga
 
-
+![Mob blogging live at DevOpsDaysCPH](mob-blogging-about-mob-programming.png)
 
 
 ## Intro
